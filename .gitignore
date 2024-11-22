@@ -400,3 +400,6 @@ FodyWeavers.xsd
 
 # Next
 .next
+
+# database connections data
+.env
